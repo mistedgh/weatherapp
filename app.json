@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "c5e8c2ff-ada2-40df-8a36-72320a7f48f4"
+      }
+    },
+    "android": {
+      "package": "com.andylin50.weatherapp"
+    }
+  }
+}
